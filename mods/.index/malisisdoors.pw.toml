@@ -1,0 +1,21 @@
+filename = 'malisisdoors-1.12.2-7.3.0.jar'
+name = 'MalisisDoors'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'malisisdoors-1.12.2-7.3.0.jar'
+
+[download]
+hash = '87e694ed0722b4106242faf5dd33f7e86929ec88'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2526674
+project-id = 223891
+
+[[x-prismlauncher-dependencies]]
+addonId = '223896'
+type = 'REQUIRED'

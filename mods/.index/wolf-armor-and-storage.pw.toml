@@ -1,0 +1,18 @@
+filename = 'WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar'
+name = 'Wolf Armor and Storage Legacy'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'Wolf Armor and Storage Legacy 3.8.1+1.12.2.alpha.1'
+
+[download]
+hash = '01883bd1e831397c90b8065a332a9b7e7da24c3c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3648545
+project-id = 253689
