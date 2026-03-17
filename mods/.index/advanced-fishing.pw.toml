@@ -1,6 +1,5 @@
 filename = 'Advanced-Fishing-1.12.2-1.3.3.jar'
 name = 'Advanced Fishing'
-side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [ '1.12.2' ]
