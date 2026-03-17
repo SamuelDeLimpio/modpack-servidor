@@ -1,0 +1,18 @@
+filename = 'LittleTiles_v1.5.87_mc1.12.2.jar'
+name = 'LittleTiles'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'LittleTiles_v1.5.87_mc1.12.2.jar'
+
+[download]
+hash = 'f77d34ddd13caeb4781908443f73e51b9118fe60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5180387
+project-id = 257818

@@ -1,0 +1,18 @@
+filename = 'mclib-2.4.3-1.12.2.jar'
+name = "McHorse's McLib"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'McLib 2.4.3'
+
+[download]
+hash = '450948175153effc4f30f593a12ae0d8f6421873'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5440933
+project-id = 304750

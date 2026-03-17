@@ -1,0 +1,25 @@
+filename = 'DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar'
+name = "Dynamic Trees - Tinker's Construct"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar'
+
+[download]
+hash = '37a7163713284c9c3af5d77ceb6119ac6e742d5e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3283263
+project-id = 386747
+
+[[x-prismlauncher-dependencies]]
+addonId = '252818'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '74072'
+type = 'REQUIRED'

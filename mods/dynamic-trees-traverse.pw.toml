@@ -1,0 +1,25 @@
+filename = 'DynamicTreesTraverse-1.12.2-2.1.jar'
+name = 'Dynamic Trees - Traverse'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Dynamic Trees - Traverse - 2.1'
+
+[download]
+hash = '6d0f2c009a8332c811e5654affca54114747d441'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3093214
+project-id = 407056
+
+[[x-prismlauncher-dependencies]]
+addonId = '252818'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '267769'
+type = 'REQUIRED'

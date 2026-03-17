@@ -1,0 +1,21 @@
+filename = 'Decocraft-2.6.3.7_1.12.2.jar'
+name = 'Decocraft'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Decocraft-2.6.3.7_1.12.2.jar'
+
+[download]
+hash = 'e226ed02e3181aca765a52cee7bad8865d93815b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3347832
+project-id = 79616
+
+[[x-prismlauncher-dependencies]]
+addonId = '291499'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'bookworm-1.12.2-2.5.2.1.jar'
+name = 'Bookworm'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bookworm-1.12.2-2.5.2.1'
+
+[download]
+hash = '576d8003a874b8fa484b3188bce9305aeb3a0148'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2989715
+project-id = 302957

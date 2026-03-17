@@ -1,0 +1,21 @@
+filename = 'zawa-1.12.2-2.1.3.jar'
+name = 'Zoo & Wild Animals Rebuilt : ZAWA'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'zawa-1.12.2-2.1.3'
+
+[download]
+hash = 'bfaedadedcab5c344e366cab1e0f0a6aeec0fde0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3227927
+project-id = 292547
+
+[[x-prismlauncher-dependencies]]
+addonId = '302957'
+type = 'REQUIRED'
