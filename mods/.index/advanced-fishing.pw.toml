@@ -1,0 +1,18 @@
+filename = 'Advanced-Fishing-1.12.2-1.3.3.jar'
+name = 'Advanced Fishing'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Advanced-Fishing-1.3.3'
+
+[download]
+hash = 'b5bf4b1c90c25ef8991abafc3f4df8a62d62a6d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2636803
+project-id = 303541
