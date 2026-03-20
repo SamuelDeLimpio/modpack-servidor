@@ -1,4 +1,4 @@
-# Forzar LF para todas las extensiones de texto detectadas
+# Forzar que Git use LF para todos estos archivos de texto
 * text=auto eol=lf
 *.pw.toml text eol=lf
 *.toml text eol=lf
@@ -9,4 +9,5 @@
 *.json text eol=lf
 *.json5 text eol=lf
 *.properties text eol=lf
+*.mcmeta text eol=lf
 *.txt text eol=lf
