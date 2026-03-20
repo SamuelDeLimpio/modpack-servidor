@@ -1435,39 +1435,39 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/dynamictrees/models/block/saplings/tallbirch.json"
-hash = "387afe3d3db1059d41cf67a37a1db1f9cb8cd5dc2ed2ecec4c5cd6d60d8bc5d9"
+hash = "a848c66404d2402ca1738fdb811e982c796990d081fe2bb6b4d0d04a2a47343b"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/futuremc/blockstates/polished_blackstone_wall.json"
-hash = "8310bd3b1e163ab908000fdd784539a566f61f112ba76ea118193f49be390194"
+hash = "a48d05277a85fcf82b72db25a53188aec853e959c8b2637b28b1d0a8c80de48e"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/futuremc/models/block/polished_blackstone_wall_inventory.json"
-hash = "144da02154ea76f50eb2cae16ca4e801c47fcfd60287af4faf2169a028c84c37"
+hash = "ded57c4158a72c59556adbb3ed79c152ceab650216e4db97d3d1b12c7c8eb007"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/blockstates/nether_quartz_ore.json"
-hash = "f1650e9d19c6708b139a76f96667c2632916dae2db7608950d692bfc775c19a2"
+hash = "6dbb6910ea3bc29a5e8b9f4695ab2ac9d04e2e511564177e3904c9b4dfead6f6"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/blockstates/old_wood_slab.json"
-hash = "0a09634636bd2003fb50d2b480bd9478d4e1788d3b4c7f16d45d1e40cab7b0cd"
+hash = "3b38ed126457d35332af819b3a646fcf3b96b64cc3a12473cd981db4a8dc6da4"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/models/block/nether_quartz_ore.json"
-hash = "8f54237020800b3b06e9d2246472547e545e28cefb7ccd0411d6870394896456"
+hash = "b4a3cc17902a70b12071ce41b33baa1ddb4ebf99b00aa215b8927691c8c1a653"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/models/block/oak_slab.json"
-hash = "564d3a8102caf1f10cfa70e247ca9ecbe4574c431ee68202a327576a217c3ce5"
+hash = "9082610585fbfbbbdb8d2668fbe42b8de9c286f381b19b9a796eeb6b23a777ee"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/securitycraft/blockstates/quartz_mine.json"
-hash = "380fec13492cefb4a1fb358d6fda409ae61a29330156d9b61e5d9eb6d5925c41"
+hash = "3e7c03a8e872787bc9f13e2230ca70b2dd69632058ac860315200e8fec005b51"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/pack.mcmeta"
-hash = "df8be550b75af1a00e1c3d0c619df33d03a514b8e402b9abd5eba647829500d5"
+hash = "fee32fd0e6a77564a184ca239a07a93932f3a321546cd42dfa724edb9d5cb7e3"
 
 [[files]]
 file = "resourcepacks/RLD_Textures.zip"
