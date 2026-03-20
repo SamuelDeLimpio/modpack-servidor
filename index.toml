@@ -1290,11 +1290,6 @@ hash = "f4f48c5173082fbb0b804204872593248fe433dcb52bab8222610946b839953d"
 metafile = true
 
 [[files]]
-file = "mods/project-982560.pw.toml"
-hash = "e94344f7166a2863620cedfc052081d29283dd39297d34c6efec8c354a1c4d25"
-metafile = true
-
-[[files]]
 file = "mods/ptrlib.pw.toml"
 hash = "6d287caff940425cc186ff6e681933d6e3d7e505dd105d30b4067e96d0eaf1e9"
 metafile = true
