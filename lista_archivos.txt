@@ -1,0 +1,439 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is CA17-3EDA
+C:.
+³   index.toml
+³   lista_archivos.txt
+³   pack.toml
+³   packwiz.exe
+³   
+ÃÄÄÄconfig
+³   ³   advanced-fishing.cfg
+³   ³   ambientsounds-client.json
+³   ³   ambientsounds.cfg
+³   ³   animalium.cfg
+³   ³   appleskin.cfg
+³   ³   Artifacts.cfg
+³   ³   astraladditions.cfg
+³   ³   astralsorcery.cfg
+³   ³   battletowers.cfg
+³   ³   baubles.cfg
+³   ³   bettercaves-1_12_2.cfg
+³   ³   bettermineshafts-1_12_2.cfg
+³   ³   bloodmoon.cfg
+³   ³   camera.cfg
+³   ³   carryon.cfg
+³   ³   celeritas-extra.cfg
+³   ³   celeritasdynamiclights.cfg
+³   ³   celeritasleafculling.cfg
+³   ³   comforts.cfg
+³   ³   conarm.cfg
+³   ³   creativecore-client.json
+³   ³   creativecore.json
+³   ³   cw.cfg
+³   ³   decocraft.cfg
+³   ³   dynamictrees.cfg
+³   ³   dynamictreesbop.cfg
+³   ³   dynamictreestconstruct.cfg
+³   ³   dypsis.cfg
+³   ³   elevatorid.cfg
+³   ³   embeddium-options.json
+³   ³   entityculling.cfg
+³   ³   eyesinthedarkness.cfg
+³   ³   forge.cfg
+³   ³   forgeChunkLoading.cfg
+³   ³   forge_early.cfg
+³   ³   fugue.cfg
+³   ³   harvestcraft.cfg
+³   ³   harvestcraft_fruittree.cfg
+³   ³   ice_and_fire.cfg
+³   ³   infernalmobs.cfg
+³   ³   jade.cfg
+³   ³   littleframes-client.json
+³   ³   littleframes.json
+³   ³   littletiles-client.json
+³   ³   littletiles.json
+³   ³   loliasm.cfg
+³   ³   malisiscore.cfg
+³   ³   malisisdoors.cfg
+³   ³   mca.cfg
+³   ³   Mowzie's Mobs' Baubles.cfg
+³   ³   mowziesmobs.cfg
+³   ³   naturescompass.cfg
+³   ³   packetfixer.properties
+³   ³   particleculling.cfg
+³   ³   playerrevive-client.json
+³   ³   playerrevive.json
+³   ³   ptrmodellib.cfg
+³   ³   renderlib.cfg
+³   ³   rustic.cfg
+³   ³   securitycraft.cfg
+³   ³   sledgehammer.conf
+³   ³   splash.properties
+³   ³   tconstruct.cfg
+³   ³   tconstruct_oredictcache.dat
+³   ³   TinkerModules.cfg
+³   ³   TinkerToolLeveling.cfg
+³   ³   tombstone.cfg
+³   ³   travelersbackpack.cfg
+³   ³   Universal Tweaks - Bugfixes.cfg
+³   ³   Universal Tweaks - General.cfg
+³   ³   Universal Tweaks - Mod Integration.cfg
+³   ³   Universal Tweaks - Tweaks.cfg
+³   ³   VariedCommodities.cfg
+³   ³   vintagefix.properties
+³   ³   xaeropatreon.txt
+³   ³   xporbclump.cfg
+³   ³   zspacket.cfg
+³   ³   zume.json5
+³   ³   
+³   ÃÄÄÄastralsorcery
+³   ³       aevitas_ore_perk.cfg
+³   ³       amulet_enchantments.cfg
+³   ³       fluid_rarities.cfg
+³   ³       herdable_animals_blacklist.cfg
+³   ³       mineralis_ritual.cfg
+³   ³       perk_void_trash_replacement.cfg
+³   ³       treasure_shrine.cfg
+³   ³       
+³   ÃÄÄÄbettercaves-1_12_2
+³   ÃÄÄÄbettermineshafts
+³   ³   ³   README.txt
+³   ³   ³   
+³   ³   ÀÄÄÄ1_12_2
+³   ³           biomeTags.txt
+³   ³           README.txt
+³   ³           variants.json
+³   ³           
+³   ÃÄÄÄbiomesoplenty
+³   ³   ³   biome_ids.json
+³   ³   ³   gameplay.cfg
+³   ³   ³   misc.cfg
+³   ³   ³   
+³   ³   ÀÄÄÄbiomes
+³   ³       ³   biomes.json
+³   ³       ³   Put biome config files here
+³   ³       ³   
+³   ³       ÀÄÄÄdefaults
+³   ³           ÃÄÄÄbiomesoplenty
+³   ³           ³       alps.json
+³   ³           ³       alps_foothills.json
+³   ³           ³       bamboo_forest.json
+³   ³           ³       bayou.json
+³   ³           ³       bog.json
+³   ³           ³       boreal_forest.json
+³   ³           ³       brushland.json
+³   ³           ³       chaparral.json
+³   ³           ³       cherry_blossom_grove.json
+³   ³           ³       cold_desert.json
+³   ³           ³       coniferous_forest.json
+³   ³           ³       coral_reef.json
+³   ³           ³       corrupted_sands.json
+³   ³           ³       crag.json
+³   ³           ³       dead_forest.json
+³   ³           ³       dead_swamp.json
+³   ³           ³       eucalyptus_forest.json
+³   ³           ³       fen.json
+³   ³           ³       flower_field.json
+³   ³           ³       flower_island.json
+³   ³           ³       fungi_forest.json
+³   ³           ³       glacier.json
+³   ³           ³       grassland.json
+³   ³           ³       gravel_beach.json
+³   ³           ³       grove.json
+³   ³           ³       highland.json
+³   ³           ³       kelp_forest.json
+³   ³           ³       land_of_lakes.json
+³   ³           ³       lavender_fields.json
+³   ³           ³       lush_desert.json
+³   ³           ³       lush_swamp.json
+³   ³           ³       mangrove.json
+³   ³           ³       maple_woods.json
+³   ³           ³       marsh.json
+³   ³           ³       meadow.json
+³   ³           ³       moor.json
+³   ³           ³       mountain.json
+³   ³           ³       mountain_foothills.json
+³   ³           ³       mystic_grove.json
+³   ³           ³       oasis.json
+³   ³           ³       ominous_woods.json
+³   ³           ³       orchard.json
+³   ³           ³       origin_beach.json
+³   ³           ³       origin_island.json
+³   ³           ³       outback.json
+³   ³           ³       overgrown_cliffs.json
+³   ³           ³       pasture.json
+³   ³           ³       phantasmagoric_inferno.json
+³   ³           ³       prairie.json
+³   ³           ³       quagmire.json
+³   ³           ³       rainforest.json
+³   ³           ³       redwood_forest.json
+³   ³           ³       redwood_forest_edge.json
+³   ³           ³       sacred_springs.json
+³   ³           ³       seasonal_forest.json
+³   ³           ³       shield.json
+³   ³           ³       shrubland.json
+³   ³           ³       snowy_coniferous_forest.json
+³   ³           ³       snowy_forest.json
+³   ³           ³       snowy_tundra.json
+³   ³           ³       steppe.json
+³   ³           ³       temperate_rainforest.json
+³   ³           ³       tropical_island.json
+³   ³           ³       tropical_rainforest.json
+³   ³           ³       tundra.json
+³   ³           ³       undergarden.json
+³   ³           ³       visceral_heap.json
+³   ³           ³       volcanic_island.json
+³   ³           ³       wasteland.json
+³   ³           ³       wetland.json
+³   ³           ³       white_beach.json
+³   ³           ³       woodland.json
+³   ³           ³       xeric_shrubland.json
+³   ³           ³       
+³   ³           ÀÄÄÄvanilla
+³   ³                   beaches.json
+³   ³                   birch_forest.json
+³   ³                   birch_forest_hills.json
+³   ³                   desert.json
+³   ³                   desert_hills.json
+³   ³                   extreme_hills.json
+³   ³                   extreme_hills_with_trees.json
+³   ³                   forest.json
+³   ³                   forest_hills.json
+³   ³                   hell.json
+³   ³                   ice_flats.json
+³   ³                   ice_mountains.json
+³   ³                   jungle.json
+³   ³                   jungle_hills.json
+³   ³                   mesa.json
+³   ³                   mesa_clear_rock.json
+³   ³                   mushroom_island.json
+³   ³                   mutated_forest.json
+³   ³                   ocean.json
+³   ³                   plains.json
+³   ³                   redwood_taiga.json
+³   ³                   redwood_taiga_hills.json
+³   ³                   roofed_forest.json
+³   ³                   savanna.json
+³   ³                   savanna_rock.json
+³   ³                   sky.json
+³   ³                   swampland.json
+³   ³                   taiga.json
+³   ³                   taiga_cold.json
+³   ³                   taiga_cold_hills.json
+³   ³                   taiga_hills.json
+³   ³                   
+³   ÃÄÄÄcarryon-scripts
+³   ÃÄÄÄdynamictrees
+³   ³       dimensions.json
+³   ³       worldgen.json
+³   ³       
+³   ÃÄÄÄemoticons
+³   ³   ³   config.json
+³   ³   ³   keys.json
+³   ³   ³   
+³   ³   ÀÄÄÄemotes
+³   ÃÄÄÄjei
+³   ³       itemBlacklist.cfg
+³   ³       jei.cfg
+³   ³       searchColors.cfg
+³   ³       worldSettings.cfg
+³   ³       
+³   ÃÄÄÄloliasm
+³   ³       methods-stable_39.csv
+³   ³       
+³   ÃÄÄÄmclib
+³   ³       config.json
+³   ³       keybinds.json
+³   ³       op_access.json
+³   ³       
+³   ÃÄÄÄMoVillages
+³   ³       VillageDistance.cfg
+³   ³       
+³   ÃÄÄÄsatyrn
+³   ³       wolfarmor.cfg
+³   ³       
+³   ÃÄÄÄtraverse
+³   ³       traverse.cfg
+³   ³       
+³   ÃÄÄÄvoicechat
+³   ³       category-volumes.properties
+³   ³       player-volumes.properties
+³   ³       translations.properties
+³   ³       username-cache.json
+³   ³       voicechat-client.properties
+³   ³       voicechat-server.properties
+³   ³       
+³   ÃÄÄÄwaila
+³   ³   ³   waila.cfg
+³   ³   ³   
+³   ³   ÀÄÄÄtheme
+³   ³           dark.json
+³   ³           vanilla.json
+³   ³           
+³   ÃÄÄÄxaero
+³   ³   ÃÄÄÄlib
+³   ³   ³   ³   client.cfg
+³   ³   ³   ³   common.cfg
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄprofiles
+³   ³   ³   ³       default.cfg
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄserver_profiles
+³   ³   ³           default.cfg
+³   ³   ³           
+³   ³   ÀÄÄÄworld-map
+³   ³       ³   client.cfg
+³   ³       ³   common.cfg
+³   ³       ³   
+³   ³       ÃÄÄÄprofiles
+³   ³       ³       default.cfg
+³   ³       ³       
+³   ³       ÀÄÄÄserver_profiles
+³   ³               default.cfg
+³   ³               
+³   ÀÄÄÄZooAndWildAnimalsRebuilt1.12.2-2.1.3
+³           WorldGeneration.cfg
+³           ZAWA1.12.2-2.1.3.cfg
+³           ZAWAModules.cfg
+³           ZAWASpawnConfigurations.cfg
+³           
+ÃÄÄÄmods
+³   ³   advanced-fishing.pw.toml
+³   ³   alfheim-lighting-engine.pw.toml
+³   ³   ambientsounds.pw.toml
+³   ³   animalium.pw.toml
+³   ³   appleskin.pw.toml
+³   ³   artifacts.pw.toml
+³   ³   astral-additions.pw.toml
+³   ³   astral-sorcery.pw.toml
+³   ³   atomicstrykers-infernal-mobs.pw.toml
+³   ³   baubles.pw.toml
+³   ³   bloodmoon.pw.toml
+³   ³   camera-mod.pw.toml
+³   ³   carry-on.pw.toml
+³   ³   celeritas-dynamic-lights.pw.toml
+³   ³   celeritas-extra.pw.toml
+³   ³   celeritas-forge-mc12-2-2-4-0-dev.pw.toml
+³   ³   celeritasleafculling.pw.toml
+³   ³   cofh-core.pw.toml
+³   ³   cofh-world.pw.toml
+³   ³   comforts.pw.toml
+³   ³   configanytime.pw.toml
+³   ³   constructs-armory.pw.toml
+³   ³   crafttweaker.pw.toml
+³   ³   creativecore.pw.toml
+³   ³   creature-whisperer.pw.toml
+³   ³   decocraft.pw.toml
+³   ³   dynamic-trees-tinkers-construct.pw.toml
+³   ³   dynamic-trees-traverse.pw.toml
+³   ³   dynamictrees.pw.toml
+³   ³   dypsis.pw.toml
+³   ³   emoticons.pw.toml
+³   ³   entity-culling.pw.toml
+³   ³   eyes-in-the-darkness.pw.toml
+³   ³   fugue.pw.toml
+³   ³   future-mc.pw.toml
+³   ³   gnetum.pw.toml
+³   ³   had-enough-items.pw.toml
+³   ³   hwyla.pw.toml
+³   ³   jade.pw.toml
+³   ³   littleframes.pw.toml
+³   ³   littletiles.pw.toml
+³   ³   llibrary.pw.toml
+³   ³   lolasm.pw.toml
+³   ³   macaws-bridges.pw.toml
+³   ³   malisiscore.pw.toml
+³   ³   malisisdoors.pw.toml
+³   ³   mantle.pw.toml
+³   ³   mchorses-mclib.pw.toml
+³   ³   minecraft-comes-alive-mca.pw.toml
+³   ³   mixin-booter.pw.toml
+³   ³   mixinbootstrap.pw.toml
+³   ³   mo-villages.pw.toml
+³   ³   mouse-tweaks.pw.toml
+³   ³   mowzies-mobs-baubles.pw.toml
+³   ³   mowzies-mobs.pw.toml
+³   ³   natures-compass.pw.toml
+³   ³   openblocks-elevator.pw.toml
+³   ³   packet-fixer.pw.toml
+³   ³   pams-harvestcraft.pw.toml
+³   ³   particle-culling.pw.toml
+³   ³   playerrevive.pw.toml
+³   ³   project-982560.pw.toml
+³   ³   ptrlib.pw.toml
+³   ³   red-core.pw.toml
+³   ³   renderlib.pw.toml
+³   ³   rustic.pw.toml
+³   ³   scalar-legacy.pw.toml
+³   ³   security-craft.pw.toml
+³   ³   simple-voice-chat.pw.toml
+³   ³   sledgehammer.pw.toml
+³   ³   thermal-foundation.pw.toml
+³   ³   tinkers-construct.pw.toml
+³   ³   tinkers-tool-leveling.pw.toml
+³   ³   travelers-backpack.pw.toml
+³   ³   traverse-reforged.pw.toml
+³   ³   universal-tweaks.pw.toml
+³   ³   varied-commodities.pw.toml
+³   ³   vintagefix.pw.toml
+³   ³   wii-zoom.pw.toml
+³   ³   wolf-armor-and-storage.pw.toml
+³   ³   xaerolib.pw.toml
+³   ³   xaeros-world-map.pw.toml
+³   ³   xp-orb-clump.pw.toml
+³   ³   yungs-better-caves.pw.toml
+³   ³   yungs-better-mineshafts-forge.pw.toml
+³   ³   zs-packet.pw.toml
+³   ³   
+³   ÃÄÄÄ1.12.2
+³   ³       akka-actor_2.11-2.3.3.jar
+³   ³       config-1.2.1.jar
+³   ³       scala-actors-2.11.0.jar
+³   ³       scala-actors-migration_2.11-1.1.0.jar
+³   ³       scala-compiler-2.11.1.jar
+³   ³       scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+³   ³       scala-library-2.11.1.jar
+³   ³       scala-reflect-2.11.1.jar
+³   ³       scala-xml_2.11-1.0.2.jar
+³   ³       
+³   ÀÄÄÄmemory_repo
+³       ÀÄÄÄnet
+³           ÀÄÄÄilexiconn
+³               ÀÄÄÄllibrary-core
+³                   ÀÄÄÄ1.0.11-1.12.2
+³                           llibrary-core-1.0.11-1.12.2.jar
+³                           llibrary-core-1.0.11-1.12.2.jar.meta
+³                           
+ÃÄÄÄnotfound
+³       celeritas-forge-mc12.2-2.4.0-dev.jar
+³       Decocraft-2.6.3.7_1.12.2.jar
+³       PTRLib-1.0.5.jar
+³       wi-zoom-v1.1-MC1.12.2-release.jar
+³       
+ÀÄÄÄresourcepacks
+    ³   RLD_Textures.zip
+    ³   
+    ÀÄÄÄFix_Vintage_Vainilla
+        ³   pack.mcmeta
+        ³   
+        ÀÄÄÄassets
+            ÃÄÄÄdynamictrees
+            ³   ÀÄÄÄmodels
+            ³       ÀÄÄÄblock
+            ³           ÀÄÄÄsaplings
+            ³                   tallbirch.json
+            ³                   
+            ÃÄÄÄminecraft
+            ³   ÃÄÄÄblockstates
+            ³   ³       nether_quartz_ore.json
+            ³   ³       old_wood_slab.json
+            ³   ³       
+            ³   ÀÄÄÄmodels
+            ³       ÀÄÄÄblock
+            ³               nether_quartz_ore.json
+            ³               oak_slab.json
+            ³               
+            ÀÄÄÄsecuritycraft
+                ÀÄÄÄblockstates
+                        quartz_mine.json
+                        

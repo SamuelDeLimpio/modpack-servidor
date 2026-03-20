@@ -1,0 +1,7 @@
+# Forzar que todo lo que sea texto use LF (estándar de Linux/GitHub)
+* text=auto eol=lf
+*.pw.toml text eol=lf
+*.toml text eol=lf
+*.cfg text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
