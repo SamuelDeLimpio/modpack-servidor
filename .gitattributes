@@ -1,9 +1,12 @@
-# Forzar que todo lo que sea texto use LF (estándar de Linux/GitHub)
+# Forzar LF para todas las extensiones de texto detectadas
 * text=auto eol=lf
 *.pw.toml text eol=lf
 *.toml text eol=lf
 *.cfg text eol=lf
+*.conf text eol=lf
+*.csv text eol=lf
+*.meta text eol=lf
 *.json text eol=lf
-*.txt text eol=lf
 *.json5 text eol=lf
 *.properties text eol=lf
+*.txt text eol=lf

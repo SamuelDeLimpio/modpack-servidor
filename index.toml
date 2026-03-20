@@ -738,7 +738,7 @@ hash = "213368058160831d6a65b021c68d75f87851b9265768673ba322961a45f1aaac"
 
 [[files]]
 file = "config/loliasm/methods-stable_39.csv"
-hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
+hash = "89d63593c75c4813dcaddf7a0d7c04942bb01e913cf3c22ef0a29a419c1e5ba8"
 
 [[files]]
 file = "config/malisiscore.cfg"
@@ -810,7 +810,7 @@ hash = "f8326294dc099401e4eff6716b8f8abab93a2d30e54ef6af4548f467c997f379"
 
 [[files]]
 file = "config/sledgehammer.conf"
-hash = "baa441da180a9e8b74fe956525cdc820cafb37a8b6c4f0e015d684bf15706b48"
+hash = "63f4ce1581cd0d7a1a498b874ea9263832b910f5ef6ef1b0bdfd6edd450cf54a"
 
 [[files]]
 file = "config/splash.properties"
@@ -1202,7 +1202,7 @@ hash = "981fb876fc665c7fa228ae9673ddbbd2355bbf320b6a7ead53987d35ef145e9c"
 
 [[files]]
 file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar.meta"
-hash = "2a41015371950d75ce8df0f234abf5767127c06d1893395a3c218dd7f8a77967"
+hash = "9d46e8a89dbfd4c05b93539cc4703e4fb2ebd90eec646a41c7a2316ae24d79c8"
 
 [[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
