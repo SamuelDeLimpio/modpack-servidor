@@ -1315,6 +1315,11 @@ hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
 metafile = true
 
 [[files]]
+file = "mods/scala-swing.pw.toml"
+hash = "c4d1f4f66b29d11a3cea2859ea9e108e541495d5dd5224b308c3b28d089198a5"
+metafile = true
+
+[[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
 metafile = true
@@ -1425,6 +1430,10 @@ hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 [[files]]
 file = "notfound/celeritas-forge-mc12.2-2.4.0-dev.jar"
 hash = "548a88ca9e1a9dd4f0a7140a9110f321e4fd6ae4196efd88f3f5e0f9a7e6585c"
+
+[[files]]
+file = "notfound/scala-swing_2.11-1.0.1.jar"
+hash = "4a7c757d4d87dd37382bd777ad611b5875748aef148277cf25bb39eebb496d07"
 
 [[files]]
 file = "notfound/wi-zoom-v1.1-MC1.12.2-release.jar"
