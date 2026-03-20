@@ -1102,11 +1102,6 @@ hash = "2c9c2a0c375d71d02762ece593d43f998e3f7039dfedf27dde51c117d3f1d16f"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-tinkers-construct.pw.toml"
 hash = "6de3c2ea61d9f146733d8888fc44c5c128e2818f9806a7f84a82ebaed2989c5a"
 metafile = true
@@ -1295,11 +1290,6 @@ hash = "e94344f7166a2863620cedfc052081d29283dd39297d34c6efec8c354a1c4d25"
 metafile = true
 
 [[files]]
-file = "mods/ptrlib.pw.toml"
-hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
-metafile = true
-
-[[files]]
 file = "mods/red-core.pw.toml"
 hash = "06969f488405c789e0312c1a09be5e51bda6eab1d7869ab934cb55289aad3860"
 metafile = true
@@ -1372,11 +1362,6 @@ metafile = true
 [[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
-metafile = true
-
-[[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "55b47d8d70ce32052cdfab5123fdfbc520eb495652505033415424ffb2d880e9"
 metafile = true
 
 [[files]]
