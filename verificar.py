@@ -1,22 +1,21 @@
 import os
 
-# Archivos y carpetas a procesar
-targets = ['pack.toml', 'index.toml', 'mods']
+# Carpetas que contienen archivos de texto con errores
+folders_to_fix = ['config', 'mods', 'resourcepacks']
 
-def convert_to_lf(path):
-    if os.path.isfile(path):
-        if path.endswith('.toml') or path.endswith('.cfg'):
-            with open(path, 'rb') as f:
-                content = f.read()
-            # Reemplazamos \r\n (Windows) por \n (Linux/GitHub)
-            new_content = content.replace(b'\r\n', b'\n')
-            with open(path, 'wb') as f:
-                f.writelines([new_content])
-            print(f"Convertido a LF: {path}")
-    elif os.path.isdir(path):
-        for root, dirs, files in os.walk(path):
-            for file in files:
-                convert_to_lf(os.path.join(root, file))
+for folder in folders_to_fix:
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            if file.endswith(('.cfg', '.json', '.json5', '.properties', '.pw.toml', '.toml')):
+                path = os.path.join(root, file)
+                with open(path, 'rb') as f:
+                    content = f.read()
+                
+                # Convertimos CRLF (\r\n) a LF (\n)
+                new_content = content.replace(b'\r\n', b'\n')
+                
+                with open(path, 'wb') as f:
+                    f.write(new_content)
+                print(f"Corregido: {path}")
 
-for t in targets:
-    convert_to_lf(t)
+print("\n--- Todos los archivos de configuración convertidos a LF ---")

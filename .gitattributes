@@ -5,3 +5,5 @@
 *.cfg text eol=lf
 *.json text eol=lf
 *.txt text eol=lf
+*.json5 text eol=lf
+*.properties text eol=lf
