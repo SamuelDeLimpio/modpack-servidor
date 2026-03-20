@@ -1122,6 +1122,11 @@ hash = "50ac7ebc33d8ae9659ffa238778fcae1f81d80541516c425eb3c3f359b946f57"
 metafile = true
 
 [[files]]
+file = "mods/forgelin-continuous.pw.toml"
+hash = "d438bb91c11b43d10d9ca2ba84a79e9623238eecff3cc105736d03435cd22872"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "3e194310e07c76b7fac538e5c45617732f2c9105865d5b57f5f7ec89b7bea385"
 metafile = true
@@ -1277,6 +1282,11 @@ metafile = true
 [[files]]
 file = "mods/red-core.pw.toml"
 hash = "06969f488405c789e0312c1a09be5e51bda6eab1d7869ab934cb55289aad3860"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
