@@ -1,0 +1,17 @@
+# Ignorar scripts de Python
+*.py
+
+# Ignorar archivos de texto informativos en cualquier carpeta
+**/README.txt
+*.txt
+
+# Ignorar el propio ejecutable de packwiz si lo tienes ahí
+packwiz.exe
+
+# Ignorar archivos de Git
+.git/
+.gitattributes
+.gitignore
+
+# Ignorar carpetas temporales o de sistema
+.DS_Store

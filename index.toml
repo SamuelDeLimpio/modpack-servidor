@@ -737,6 +737,10 @@ file = "config/loliasm.cfg"
 hash = "213368058160831d6a65b021c68d75f87851b9265768673ba322961a45f1aaac"
 
 [[files]]
+file = "config/loliasm/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
+
+[[files]]
 file = "config/malisiscore.cfg"
 hash = "edc53848a46cb174f1469e9ec5bed0f9105aa29cf211f4000ff8a6ab3fed47c5"
 
@@ -803,6 +807,10 @@ hash = "73b6ab910ee8d0a7c34b93ca76f341a0e0b8071296199af689a07b6897bb6eda"
 [[files]]
 file = "config/securitycraft.cfg"
 hash = "f8326294dc099401e4eff6716b8f8abab93a2d30e54ef6af4548f467c997f379"
+
+[[files]]
+file = "config/sledgehammer.conf"
+hash = "baa441da180a9e8b74fe956525cdc820cafb37a8b6c4f0e015d684bf15706b48"
 
 [[files]]
 file = "config/splash.properties"
@@ -899,10 +907,6 @@ hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xporbclump.cfg"
@@ -1197,6 +1201,10 @@ file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core
 hash = "981fb876fc665c7fa228ae9673ddbbd2355bbf320b6a7ead53987d35ef145e9c"
 
 [[files]]
+file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar.meta"
+hash = "2a41015371950d75ce8df0f234abf5767127c06d1893395a3c218dd7f8a77967"
+
+[[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
 hash = "3a4dca5c54b1e8632f6171b5913e2d72b7931016e78bd1066d4651d509bc50f1"
 metafile = true
@@ -1431,6 +1439,9 @@ file = "resourcepacks/Fix_Vintage_Vainilla/assets/securitycraft/blockstates/quar
 hash = "3e7c03a8e872787bc9f13e2230ca70b2dd69632058ac860315200e8fec005b51"
 
 [[files]]
+file = "resourcepacks/Fix_Vintage_Vainilla/pack.mcmeta"
+hash = "df8be550b75af1a00e1c3d0c619df33d03a514b8e402b9abd5eba647829500d5"
+
+[[files]]
 file = "resourcepacks/RLD_Textures.zip"
 hash = "46614c53908618cf8622357a913d35f4c173223799197addf97d75a87cc8fc4f"
-
