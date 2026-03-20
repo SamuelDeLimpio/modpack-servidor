@@ -1,0 +1,8 @@
+name = "decocraft"
+filename = "Decocraft-2.6.3.7_1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SamuelDeLimpio/modpack-servidor/raw/refs/heads/main/notfound/Decocraft-2.6.3.7_1.12.2.jar"
+hash-format = "sha256"
+hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"

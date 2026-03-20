@@ -1,0 +1,8 @@
+name = "ptrlib"
+filename = "PTRLib-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SamuelDeLimpio/modpack-servidor/raw/refs/heads/main/notfound/PTRLib-1.0.5.jar"
+hash-format = "sha256"
+hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
