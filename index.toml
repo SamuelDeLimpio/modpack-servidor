@@ -129,20 +129,8 @@ file = "config/bettermineshafts-1_12_2.cfg"
 hash = "3b85efec73b0843d0af1d513113a6286c1ba7947e345f1f80d00b48173736280"
 
 [[files]]
-file = "config/bettermineshafts/1_12_2/README.txt"
-hash = "90f79e075e18e7031477360d35f43acd6bb2ff808b7dab317623368b4beb6a55"
-
-[[files]]
-file = "config/bettermineshafts/1_12_2/biomeTags.txt"
-hash = "21c17afafe96334b57650908fcac83e12b0cf0572e56254c256603eda2ed400f"
-
-[[files]]
 file = "config/bettermineshafts/1_12_2/variants.json"
 hash = "2ac00429f834d5eee67f71c520b45afe96a309949e0d2b024100fd68bd338775"
-
-[[files]]
-file = "config/bettermineshafts/README.txt"
-hash = "7d7f3f167410ba4c0b91c147ee61559299ac49661217b591d9096eebaf2fd38a"
 
 [[files]]
 file = "config/biomesoplenty/biome_ids.json"
@@ -749,10 +737,6 @@ file = "config/loliasm.cfg"
 hash = "213368058160831d6a65b021c68d75f87851b9265768673ba322961a45f1aaac"
 
 [[files]]
-file = "config/loliasm/methods-stable_39.csv"
-hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
-
-[[files]]
 file = "config/malisiscore.cfg"
 hash = "edc53848a46cb174f1469e9ec5bed0f9105aa29cf211f4000ff8a6ab3fed47c5"
 
@@ -819,10 +803,6 @@ hash = "73b6ab910ee8d0a7c34b93ca76f341a0e0b8071296199af689a07b6897bb6eda"
 [[files]]
 file = "config/securitycraft.cfg"
 hash = "f8326294dc099401e4eff6716b8f8abab93a2d30e54ef6af4548f467c997f379"
-
-[[files]]
-file = "config/sledgehammer.conf"
-hash = "baa441da180a9e8b74fe956525cdc820cafb37a8b6c4f0e015d684bf15706b48"
 
 [[files]]
 file = "config/splash.properties"
@@ -935,14 +915,6 @@ hash = "e0865f04c7ac6d32a30ab9eb84d7cd7c828b58e22d73f08a358d143d8f94c198"
 [[files]]
 file = "config/zume.json5"
 hash = "8e23412c587a2350337de184b152a297778b3760f8b40dc5c2aac29f4b7a8cd3"
-
-[[files]]
-file = "error.txt"
-hash = "1f337de3ed8c0be38112f7d72aa852290f0c1469028fb0d0b768a9c0e23283f6"
-
-[[files]]
-file = "lista_archivos.txt"
-hash = "0aace25d38525a11a494aafd94675fafd822a62a42eefb10eab2569956f94453"
 
 [[files]]
 file = "mods/1.12.2/akka-actor_2.11-2.3.3.jar"
@@ -1225,10 +1197,6 @@ file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core
 hash = "981fb876fc665c7fa228ae9673ddbbd2355bbf320b6a7ead53987d35ef145e9c"
 
 [[files]]
-file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar.meta"
-hash = "2a41015371950d75ce8df0f234abf5767127c06d1893395a3c218dd7f8a77967"
-
-[[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
 hash = "3a4dca5c54b1e8632f6171b5913e2d72b7931016e78bd1066d4651d509bc50f1"
 metafile = true
@@ -1463,13 +1431,6 @@ file = "resourcepacks/Fix_Vintage_Vainilla/assets/securitycraft/blockstates/quar
 hash = "3e7c03a8e872787bc9f13e2230ca70b2dd69632058ac860315200e8fec005b51"
 
 [[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/pack.mcmeta"
-hash = "df8be550b75af1a00e1c3d0c619df33d03a514b8e402b9abd5eba647829500d5"
-
-[[files]]
 file = "resourcepacks/RLD_Textures.zip"
 hash = "46614c53908618cf8622357a913d35f4c173223799197addf97d75a87cc8fc4f"
 
-[[files]]
-file = "verificar.py"
-hash = "8f17a72bb188c310b85e04b1a552b0b6de69ddb71a351f49f6184a1286a33252"
