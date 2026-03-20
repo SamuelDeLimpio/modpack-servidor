@@ -1,0 +1,13 @@
+name = "Animalium"
+filename = "Animalium-0.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bbc75641ebe6a6e621fa90379173c69d8e90605"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2649092
+project-id = 263442

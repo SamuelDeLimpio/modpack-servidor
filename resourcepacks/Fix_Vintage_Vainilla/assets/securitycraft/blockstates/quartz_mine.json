@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "minecraft:nether_quartz_ore" },
+    "inventory": { "model": "minecraft:nether_quartz_ore" }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Varied Commodities"
+filename = "VariedCommodities_1.12.2-(31Mar23).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b51e7d731d347eed88c5d33969bbfd9bd4a43c60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4466956
+project-id = 257777

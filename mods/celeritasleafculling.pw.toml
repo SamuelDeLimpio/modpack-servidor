@@ -1,0 +1,13 @@
+name = "Celeritas Leaf Culling"
+filename = "celeritasleafculling-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b86b2087682fbfa71e9754c2dcf84fbf9d80a810"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7550650
+project-id = 1449111

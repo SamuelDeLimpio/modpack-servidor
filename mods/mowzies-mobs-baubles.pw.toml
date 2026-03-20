@@ -1,0 +1,13 @@
+name = "Mowzie's Mobs' Baubles"
+filename = "MowziesMobsBaubles-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2e712bdadea5e6635efe11828333b4423d99646"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7004964
+project-id = 1155226

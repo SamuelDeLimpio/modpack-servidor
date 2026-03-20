@@ -1,0 +1,13 @@
+name = "Emoticons"
+filename = "emoticons-1.1.2-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebbdbbfa0e7389be2866480c5c8d4e7451501eed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4528666
+project-id = 311624

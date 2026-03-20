@@ -1,0 +1,13 @@
+name = "Wolf Armor and Storage Legacy"
+filename = "WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01883bd1e831397c90b8065a332a9b7e7da24c3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3648545
+project-id = 253689
