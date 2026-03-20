@@ -977,11 +977,6 @@ hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "6f5db2862c4b5e4f90fdace8291e1998e7496f821dfb7fb27e1d217e58463ca2"
 metafile = true
@@ -1087,6 +1082,11 @@ hash = "b7f4bb6945cf9769c0a8ad044fac3499072299bb9701bba5d856d74aaa7eddad"
 metafile = true
 
 [[files]]
+file = "mods/dramatictrees.pw.toml"
+hash = "bd66ac26b8ae070ac5367e934a919a5aec2878b6d76c1739aa5b10df7e4fdb17"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-tinkers-construct.pw.toml"
 hash = "6de3c2ea61d9f146733d8888fc44c5c128e2818f9806a7f84a82ebaed2989c5a"
 metafile = true
@@ -1094,11 +1094,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trees-traverse.pw.toml"
 hash = "545659f2a01b755a2cf24692f7e8ec892c3df0c113a9b6fe5e402072fc360d8e"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
 metafile = true
 
 [[files]]
@@ -1154,6 +1149,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
+metafile = true
+
+[[files]]
+file = "mods/jei-area-fixer.pw.toml"
+hash = "3cb55b92ad08c2a551358e84254b3678a940a12742ded4a2fbad605c83a82bce"
+metafile = true
+
+[[files]]
+file = "mods/lemonskin.pw.toml"
+hash = "8dca2843b71a50245a12a50617281ba88b162f13af3ba9d08712349d97208724"
 metafile = true
 
 [[files]]
@@ -1230,8 +1235,8 @@ hash = "a3562143477139f7bc92f9030347787331841e2734cd48111ecd1dec8f0165e1"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+file = "mods/mouse-tweaks-unofficial.pw.toml"
+hash = "97afad43aab051629f2e0dddcd0aa9909b94b616642a5c5cd0ab1754e8cf9c9e"
 metafile = true
 
 [[files]]
@@ -1325,13 +1330,18 @@ hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
 metafile = true
 
 [[files]]
+file = "mods/stellarcore.pw.toml"
+hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
+metafile = true
+
+[[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
+file = "mods/tinkers-antique.pw.toml"
+hash = "e8dc32dd4d6f129d368d6a48fd2c5db29e042f9ef7598a193f5a2d26b294d6e1"
 metafile = true
 
 [[files]]
@@ -1400,11 +1410,6 @@ hash = "2c3cceb0d52ba37f139070fe8396bc090571d36003f94a3c92ce99ee96c1fea1"
 metafile = true
 
 [[files]]
-file = "mods/zs-packet.pw.toml"
-hash = "ada1443814388e43d21b2f04b762797481d0ca3676691f9f138fb9a87ec74a38"
-metafile = true
-
-[[files]]
 file = "notfound/Decocraft-2.6.3.7_1.12.2.jar"
 hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
 
@@ -1425,32 +1430,44 @@ file = "notfound/wi-zoom-v1.1-MC1.12.2-release.jar"
 hash = "b2a6b45a3634c9ac38d3a69179b18ad16288d22bc0c6ed49d267730582611916"
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/dynamictrees/models/block/saplings/tallbirch.json"
-hash = "a848c66404d2402ca1738fdb811e982c796990d081fe2bb6b4d0d04a2a47343b"
+hash = "387afe3d3db1059d41cf67a37a1db1f9cb8cd5dc2ed2ecec4c5cd6d60d8bc5d9"
+
+[[files]]
+file = "resourcepacks/Fix_Vintage_Vainilla/assets/futuremc/blockstates/polished_blackstone_wall.json"
+hash = "8310bd3b1e163ab908000fdd784539a566f61f112ba76ea118193f49be390194"
+
+[[files]]
+file = "resourcepacks/Fix_Vintage_Vainilla/assets/futuremc/models/block/polished_blackstone_wall_inventory.json"
+hash = "144da02154ea76f50eb2cae16ca4e801c47fcfd60287af4faf2169a028c84c37"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/blockstates/nether_quartz_ore.json"
-hash = "6dbb6910ea3bc29a5e8b9f4695ab2ac9d04e2e511564177e3904c9b4dfead6f6"
+hash = "f1650e9d19c6708b139a76f96667c2632916dae2db7608950d692bfc775c19a2"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/blockstates/old_wood_slab.json"
-hash = "3b38ed126457d35332af819b3a646fcf3b96b64cc3a12473cd981db4a8dc6da4"
+hash = "0a09634636bd2003fb50d2b480bd9478d4e1788d3b4c7f16d45d1e40cab7b0cd"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/models/block/nether_quartz_ore.json"
-hash = "b4a3cc17902a70b12071ce41b33baa1ddb4ebf99b00aa215b8927691c8c1a653"
+hash = "8f54237020800b3b06e9d2246472547e545e28cefb7ccd0411d6870394896456"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/models/block/oak_slab.json"
-hash = "9082610585fbfbbbdb8d2668fbe42b8de9c286f381b19b9a796eeb6b23a777ee"
+hash = "564d3a8102caf1f10cfa70e247ca9ecbe4574c431ee68202a327576a217c3ce5"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/assets/securitycraft/blockstates/quartz_mine.json"
-hash = "3e7c03a8e872787bc9f13e2230ca70b2dd69632058ac860315200e8fec005b51"
+hash = "380fec13492cefb4a1fb358d6fda409ae61a29330156d9b61e5d9eb6d5925c41"
 
 [[files]]
 file = "resourcepacks/Fix_Vintage_Vainilla/pack.mcmeta"
-hash = "fee32fd0e6a77564a184ca239a07a93932f3a321546cd42dfa724edb9d5cb7e3"
+hash = "df8be550b75af1a00e1c3d0c619df33d03a514b8e402b9abd5eba647829500d5"
 
 [[files]]
 file = "resourcepacks/RLD_Textures.zip"

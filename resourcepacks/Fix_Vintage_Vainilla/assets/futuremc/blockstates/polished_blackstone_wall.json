@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": { "model": "futuremc:polished_blackstone_wall_post" },
+    "inventory": { "model": "futuremc:polished_blackstone_wall_inventory" },
+    "east=false,north=false,south=false,up=true,west=false": { "model": "futuremc:polished_blackstone_wall_post" }
+  }
+}

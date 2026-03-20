@@ -1,0 +1,13 @@
+name = "Dramatic Trees"
+filename = "DramaticTrees-1.12.2-0.13.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2def0d31f96364ebb8d9eb7dc37bc72fd7838a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5496154
+project-id = 637540
