@@ -1,11 +1,13 @@
 import os
 
-# Extensiones de texto que están dando problemas de hash
-extensions = ('.cfg', '.conf', '.csv', '.meta', '.json', '.json5', '.properties', '.pw.toml', '.toml', '.txt', '.mcmeta')
-folders = ['config', 'mods', 'resourcepacks', 'notfound']
+# Extensiones de texto incluyendo ahora .zs de CraftTweaker
+extensions = ('.cfg', '.conf', '.csv', '.meta', '.json', '.json5', '.properties', '.pw.toml', '.toml', '.txt', '.mcmeta', '.zs')
+# Se añade la carpeta 'scripts' a la lista de escaneo
+folders = ['config', 'mods', 'resourcepacks', 'notfound', 'scripts']
 
 for folder in folders:
-    if not os.path.exists(folder): continue
+    if not os.path.exists(folder):
+        continue
     for root, dirs, files in os.walk(folder):
         for file in files:
             if file.endswith(extensions):
@@ -20,4 +22,4 @@ for folder in folders:
                     f.write(new_content)
                 print(f"Normalizado: {path}")
 
-print("\n--- ¡Limpieza completada! Todos los archivos son ahora compatibles con GitHub ---")
+print("\n--- ¡Limpieza completada! Archivos .zs incluidos ---")

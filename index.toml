@@ -369,11 +369,6 @@ hash = "44c607417a29295c8b6b90d08a9274e8acdc84b201d44d0c1ec424f84a10d9e3"
 metafile = true
 
 [[files]]
-file = "mods/scala-swing.pw.toml"
-hash = "c4d1f4f66b29d11a3cea2859ea9e108e541495d5dd5224b308c3b28d089198a5"
-metafile = true
-
-[[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
 metafile = true
@@ -547,4 +542,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "scripts/variedcommodities_fix.zs"
-hash = "8d206750c07ca52ade786ca3e5c8e19051b27210b8d3dd36def888ba3ac48bb9"
+hash = "2e5d1d67b2704008c650381cd60934ae5cb496ce1767512d974044994fc94431"

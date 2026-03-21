@@ -1,8 +1,0 @@
-name = "scala-swing"
-filename = "scala-swing_2.11-1.0.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/SamuelDeLimpio/modpack-servidor/raw/refs/heads/main/notfound/scala-swing_2.11-1.0.1.jar"
-hash-format = "sha256"
-hash = "4a7c757d4d87dd37382bd777ad611b5875748aef148277cf25bb39eebb496d07"

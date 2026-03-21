@@ -11,3 +11,4 @@
 *.properties text eol=lf
 *.mcmeta text eol=lf
 *.txt text eol=lf
+*.zs text eol=lf
