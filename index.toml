@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emoticons/config.json"
+hash = "c5327bcb61c355e98fca9f04e54760fb3091b773fe43bf198bfa8623d5264b8a"
+
+[[files]]
+file = "config/emoticons/keys.json"
+hash = "2ab37009564037d6f19c9d9142b792795b2a23c733a9b4c22aab56762ae502a8"
+
+[[files]]
+file = "config/traverse/traverse.cfg"
+hash = "c747771e3551ab7dd883efa3a74faca4f169b8de15eeb81bb05574ad7a3949bc"
+
+[[files]]
 file = "mods/advanced-fishing.pw.toml"
 hash = "cf7d75524ddc410f515ba2426bdbc6290d1729ce677960cd5cd1a47e4d05e54a"
 metafile = true
