@@ -972,11 +972,6 @@ hash = "3778808688d9e39c0b0d58c171cc22786a83dd2ace5e52c1f19b67bffd232c0e"
 metafile = true
 
 [[files]]
-file = "mods/animalium.pw.toml"
-hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "6f5db2862c4b5e4f90fdace8291e1998e7496f821dfb7fb27e1d217e58463ca2"
 metafile = true
@@ -989,11 +984,6 @@ metafile = true
 [[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
-metafile = true
-
-[[files]]
-file = "mods/atomicstrykers-infernal-mobs.pw.toml"
-hash = "cb2f5379f81edc87c07ab98959f48316f88acfdce8b2129fe71e6e4b25cc7dfd"
 metafile = true
 
 [[files]]
@@ -1034,6 +1024,11 @@ metafile = true
 [[files]]
 file = "mods/celeritasleafculling.pw.toml"
 hash = "fbad7ec934fada0504e16c541e3de4b3df05c3bd97687c0cbe6ca7b50c280738"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
@@ -1265,11 +1260,6 @@ hash = "0cc6d198656d8375b423b79b0fefa397149478ec841b1bd61351d054d66ab165"
 metafile = true
 
 [[files]]
-file = "mods/pams-harvestcraft.pw.toml"
-hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
-metafile = true
-
-[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
 metafile = true
@@ -1335,8 +1325,28 @@ hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "ffc8cf6d03dd4c77a59d3a58a82cad6cb3c36948540cb0fc1cf424a0f447ab92"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
 metafile = true
 
 [[files]]
@@ -1375,11 +1385,6 @@ hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
 metafile = true
 
 [[files]]
-file = "mods/wii-zoom.pw.toml"
-hash = "653dd8768a1237926545d57362181d11117977d590f091caed83a0efeffb691e"
-metafile = true
-
-[[files]]
 file = "mods/wolf-armor-and-storage.pw.toml"
 hash = "d7a3c7f609b9d11c98b1fafa7fa7c049c37be7e42fa0ca1e5f8070cb2375e51c"
 metafile = true
@@ -1410,12 +1415,21 @@ hash = "2c3cceb0d52ba37f139070fe8396bc090571d36003f94a3c92ce99ee96c1fea1"
 metafile = true
 
 [[files]]
+file = "mods/zume.pw.toml"
+hash = "72e1a205fcb059200604689d3a5765a2e314df5216d25b3e5cc48fe407df6356"
+metafile = true
+
+[[files]]
 file = "notfound/Decocraft-2.6.3.7_1.12.2.jar"
 hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
 
 [[files]]
 file = "notfound/PTRLib-1.0.5.jar"
 hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
+
+[[files]]
+file = "notfound/SpeedAutoClicker.zip"
+hash = "e5de957fb31d40b0ee02b61ba7de507c74faf2594cee587dcb4e1d15fd3f3b12"
 
 [[files]]
 file = "notfound/celeritas-forge-mc12.2-2.4.0-dev.jar"
@@ -1428,6 +1442,10 @@ hash = "4a7c757d4d87dd37382bd777ad611b5875748aef148277cf25bb39eebb496d07"
 [[files]]
 file = "notfound/wi-zoom-v1.1-MC1.12.2-release.jar"
 hash = "b2a6b45a3634c9ac38d3a69179b18ad16288d22bc0c6ed49d267730582611916"
+
+[[files]]
+file = "notfound/windowsdesktop-runtime-6.0.36-win-x64.exe"
+hash = "0d20debb26fc8b2bc84f25fbd9d4596a6364af8517ebf012e8b871127b798941"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"

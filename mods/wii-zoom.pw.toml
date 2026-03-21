@@ -1,8 +1,0 @@
-name = "wii-zoom"
-filename = "wi-zoom-v1.1-MC1.12.2-release.jar"
-side = "both"
-
-[download]
-url = "https://github.com/SamuelDeLimpio/modpack-servidor/raw/refs/heads/main/notfound/wi-zoom-v1.1-MC1.12.2-release.jar"
-hash-format = "sha256"
-hash = "b2a6b45a3634c9ac38d3a69179b18ad16288d22bc0c6ed49d267730582611916"
