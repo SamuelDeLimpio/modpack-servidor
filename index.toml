@@ -1,46 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/1.12.2/akka-actor_2.11-2.3.3.jar"
-hash = "4ccbc821a417f0174c9734fc721f078177cacef94ded09c3775ebf40c6a7bdfd"
-
-[[files]]
-file = "mods/1.12.2/config-1.2.1.jar"
-hash = "c160fbd78f51a0c2375a794e435ce2112524a6871f64d0331895e9e26ee8b9ee"
-
-[[files]]
-file = "mods/1.12.2/scala-actors-2.11.0.jar"
-hash = "fa33c031c291ef618e33398aa193ddf4d4c6859d805c9fb3cd4b7c4fbc9acbc6"
-
-[[files]]
-file = "mods/1.12.2/scala-actors-migration_2.11-1.1.0.jar"
-hash = "b89d0beb76df20c7b2c2bee59ba53b802cc48566bc3e89ac96ce6361c5c2ee38"
-
-[[files]]
-file = "mods/1.12.2/scala-compiler-2.11.1.jar"
-hash = "3aa616f5c56d2052fc5e3231f3e8cf1736f876caff0142a66096fc5b4dc87ae5"
-
-[[files]]
-file = "mods/1.12.2/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
-hash = "79329971a31ede7b6823f21a6ab765506b4093d9276debdc9dbe17b996884f2b"
-
-[[files]]
-file = "mods/1.12.2/scala-library-2.11.1.jar"
-hash = "088bcb80f71b6e6a2a31d2fe7288c1fd64f19663ce281b924cdfab3fb105f4f3"
-
-[[files]]
-file = "mods/1.12.2/scala-reflect-2.11.1.jar"
-hash = "41938d1e89670979dd783102777a8b879999f4fb00a5b811b51c105b02a9d4f8"
-
-[[files]]
-file = "mods/1.12.2/scala-swing_2.11-1.0.1.jar"
-hash = "4a7c757d4d87dd37382bd777ad611b5875748aef148277cf25bb39eebb496d07"
-
-[[files]]
-file = "mods/1.12.2/scala-xml_2.11-1.0.2.jar"
-hash = "13c0d8d442bde14b73af3ed60e8d53452f9e1ad62ffbe3d944cb918df652db6f"
-
-[[files]]
 file = "mods/advanced-fishing.pw.toml"
 hash = "cf7d75524ddc410f515ba2426bdbc6290d1729ce677960cd5cd1a47e4d05e54a"
 metafile = true
@@ -108,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/celeritasleafculling.pw.toml"
 hash = "fbad7ec934fada0504e16c541e3de4b3df05c3bd97687c0cbe6ca7b50c280738"
+metafile = true
+
+[[files]]
+file = "mods/chococraft-3.pw.toml"
+hash = "8bf2df425b9105ef27f753d97e71461782475872ffe29bf94ae8e9a6263c56d2"
 metafile = true
 
 [[files]]
@@ -279,14 +244,6 @@ metafile = true
 file = "mods/mchorses-mclib.pw.toml"
 hash = "f86b517a7e15c788d54ab627ba26abc1c7d9f6a235131cdf194273427c685dac"
 metafile = true
-
-[[files]]
-file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar"
-hash = "981fb876fc665c7fa228ae9673ddbbd2355bbf320b6a7ead53987d35ef145e9c"
-
-[[files]]
-file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar.meta"
-hash = "9d46e8a89dbfd4c05b93539cc4703e4fb2ebd90eec646a41c7a2316ae24d79c8"
 
 [[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
@@ -461,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/xaerolib.pw.toml"
 hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d426c6419bc530866727d22b7cf90a14e6281acefa82404d4457f6c7b6081d75"
 metafile = true
 
 [[files]]
