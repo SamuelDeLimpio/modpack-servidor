@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MoVillages/VillageDistance.cfg"
+hash = "e965a76589dc72e2591bc03dde18b4249b5d7b4a67c211f9ce6974fe7c332101"
+
+[[files]]
 file = "config/emoticons/config.json"
 hash = "c5327bcb61c355e98fca9f04e54760fb3091b773fe43bf198bfa8623d5264b8a"
 
