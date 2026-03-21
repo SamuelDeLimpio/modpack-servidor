@@ -542,5 +542,9 @@ file = "resourcepacks/RLD_Textures.zip"
 hash = "46614c53908618cf8622357a913d35f4c173223799197addf97d75a87cc8fc4f"
 
 [[files]]
+file = "resources/aveces"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "scripts/variedcommodities_fix.zs"
 hash = "8d206750c07ca52ade786ca3e5c8e19051b27210b8d3dd36def888ba3ac48bb9"
