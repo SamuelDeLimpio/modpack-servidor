@@ -36,6 +36,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/better-diving.pw.toml"
+hash = "bcc74a9673716a0c11e8349fe42a1dbad7edbab7180cec272a113cc1e22a1945"
+metafile = true
+
+[[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
