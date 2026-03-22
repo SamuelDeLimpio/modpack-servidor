@@ -371,11 +371,6 @@ hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
 metafile = true
 
 [[files]]
-file = "mods/spongeforge.pw.toml"
-hash = "479c391266faeab8cae011159e423bbed4577ff412c33afb7064acdcfc31fbbd"
-metafile = true
-
-[[files]]
 file = "mods/stellarcore.pw.toml"
 hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
 metafile = true
