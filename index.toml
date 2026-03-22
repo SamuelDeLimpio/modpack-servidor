@@ -13,16 +13,8 @@ file = "config/emoticons/keys.json"
 hash = "2ab37009564037d6f19c9d9142b792795b2a23c733a9b4c22aab56762ae502a8"
 
 [[files]]
-file = "config/sledgehammer.conf"
-hash = "140bf6a492025d4d10e2ae34539385b7732363574f74e796e138e05010a91499"
-
-[[files]]
 file = "config/traverse/traverse.cfg"
 hash = "b132b859bddeae5f8d60283d48b3b7e69a19889f6a21fa288742ea720030835d"
-
-[[files]]
-file = "mods/DefaultOptions_1.12.2-9.2.8.jar"
-hash = "1a4007ec8c503fe75faf7429b66c0ffe1555fa7a7d43147386049913ce6ebf4a"
 
 [[files]]
 file = "mods/advanced-fishing.pw.toml"
@@ -142,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/creature-whisperer.pw.toml"
 hash = "2c9c2a0c375d71d02762ece593d43f998e3f7039dfedf27dde51c117d3f1d16f"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true
 
 [[files]]
