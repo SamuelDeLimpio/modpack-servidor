@@ -14,7 +14,7 @@ hash = "2ab37009564037d6f19c9d9142b792795b2a23c733a9b4c22aab56762ae502a8"
 
 [[files]]
 file = "config/traverse/traverse.cfg"
-hash = "c747771e3551ab7dd883efa3a74faca4f169b8de15eeb81bb05574ad7a3949bc"
+hash = "b132b859bddeae5f8d60283d48b3b7e69a19889f6a21fa288742ea720030835d"
 
 [[files]]
 file = "mods/advanced-fishing.pw.toml"
