@@ -277,11 +277,6 @@ hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
-file = "mods/mixinbootstrap.pw.toml"
-hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
-metafile = true
-
-[[files]]
 file = "mods/mo-villages.pw.toml"
 hash = "a3562143477139f7bc92f9030347787331841e2734cd48111ecd1dec8f0165e1"
 metafile = true
