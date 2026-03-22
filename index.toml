@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/spongeforge.pw.toml"
-hash = "03d0ea480207ecebf65c3003cb5d59455d43559170725e5be2fcede412332f5c"
+hash = "479c391266faeab8cae011159e423bbed4577ff412c33afb7064acdcfc31fbbd"
 metafile = true
 
 [[files]]
