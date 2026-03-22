@@ -21,6 +21,10 @@ file = "config/traverse/traverse.cfg"
 hash = "b132b859bddeae5f8d60283d48b3b7e69a19889f6a21fa288742ea720030835d"
 
 [[files]]
+file = "mods/DefaultOptions_1.12.2-9.2.8.jar"
+hash = "1a4007ec8c503fe75faf7429b66c0ffe1555fa7a7d43147386049913ce6ebf4a"
+
+[[files]]
 file = "mods/advanced-fishing.pw.toml"
 hash = "cf7d75524ddc410f515ba2426bdbc6290d1729ce677960cd5cd1a47e4d05e54a"
 metafile = true
@@ -451,11 +455,6 @@ hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d426c6419bc530866727d22b7cf90a14e6281acefa82404d4457f6c7b6081d75"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c37192aa8183632567e8bdcc9af05947a253e2dc7d05567eb78db104f9cc3080"
 metafile = true
@@ -493,40 +492,8 @@ file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/dynamictrees/models/block/saplings/tallbirch.json"
-hash = "a848c66404d2402ca1738fdb811e982c796990d081fe2bb6b4d0d04a2a47343b"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/futuremc/blockstates/polished_blackstone_wall.json"
-hash = "a48d05277a85fcf82b72db25a53188aec853e959c8b2637b28b1d0a8c80de48e"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/futuremc/models/block/polished_blackstone_wall_inventory.json"
-hash = "ded57c4158a72c59556adbb3ed79c152ceab650216e4db97d3d1b12c7c8eb007"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/blockstates/nether_quartz_ore.json"
-hash = "6dbb6910ea3bc29a5e8b9f4695ab2ac9d04e2e511564177e3904c9b4dfead6f6"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/blockstates/old_wood_slab.json"
-hash = "3b38ed126457d35332af819b3a646fcf3b96b64cc3a12473cd981db4a8dc6da4"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/models/block/nether_quartz_ore.json"
-hash = "b4a3cc17902a70b12071ce41b33baa1ddb4ebf99b00aa215b8927691c8c1a653"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/minecraft/models/block/oak_slab.json"
-hash = "9082610585fbfbbbdb8d2668fbe42b8de9c286f381b19b9a796eeb6b23a777ee"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/assets/securitycraft/blockstates/quartz_mine.json"
-hash = "3e7c03a8e872787bc9f13e2230ca70b2dd69632058ac860315200e8fec005b51"
-
-[[files]]
-file = "resourcepacks/Fix_Vintage_Vainilla/pack.mcmeta"
-hash = "fee32fd0e6a77564a184ca239a07a93932f3a321546cd42dfa724edb9d5cb7e3"
+file = "resourcepacks/Fix_Vintage_Vainilla.zip"
+hash = "123acae530367b67eb3c7823afae3660952c031254fccb9d420b1356b38fae9b"
 
 [[files]]
 file = "resourcepacks/RLD_Textures.zip"
