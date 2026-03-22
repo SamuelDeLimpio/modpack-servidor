@@ -127,6 +127,11 @@ hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "c44f9dbdbe00cabe15be71c5fae2e170b1eb518310b575fa6356a4591d6dacf5"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "f54a768fc42a0c608923ccad9775e4a76b6ba916027108d45b7fd39961cff6de"
 metafile = true
@@ -287,6 +292,11 @@ hash = "a3562143477139f7bc92f9030347787331841e2734cd48111ecd1dec8f0165e1"
 metafile = true
 
 [[files]]
+file = "mods/morpheus.pw.toml"
+hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks-unofficial.pw.toml"
 hash = "97afad43aab051629f2e0dddcd0aa9909b94b616642a5c5cd0ab1754e8cf9c9e"
 metafile = true
@@ -364,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/sledgehammer.pw.toml"
 hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+metafile = true
+
+[[files]]
+file = "mods/spongeforge.pw.toml"
+hash = "b10d00d7a21c885cb0be27dba4fcfdca465c39a11fa7834b4dbf86cbf3993bca"
 metafile = true
 
 [[files]]
