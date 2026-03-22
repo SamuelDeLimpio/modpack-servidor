@@ -56,11 +56,6 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
-file = "mods/better-diving.pw.toml"
-hash = "bcc74a9673716a0c11e8349fe42a1dbad7edbab7180cec272a113cc1e22a1945"
-metafile = true
-
-[[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
@@ -178,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/eyes-in-the-darkness.pw.toml"
 hash = "50ac7ebc33d8ae9659ffa238778fcae1f81d80541516c425eb3c3f359b946f57"
+metafile = true
+
+[[files]]
+file = "mods/flare.pw.toml"
+hash = "de273d83365a71eadb97eb0feb2f690e9678436601dfd0c85e7acc591829923f"
 metafile = true
 
 [[files]]
