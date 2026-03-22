@@ -13,6 +13,10 @@ file = "config/emoticons/keys.json"
 hash = "2ab37009564037d6f19c9d9142b792795b2a23c733a9b4c22aab56762ae502a8"
 
 [[files]]
+file = "config/sledgehammer.conf"
+hash = "140bf6a492025d4d10e2ae34539385b7732363574f74e796e138e05010a91499"
+
+[[files]]
 file = "config/traverse/traverse.cfg"
 hash = "b132b859bddeae5f8d60283d48b3b7e69a19889f6a21fa288742ea720030835d"
 
@@ -540,7 +544,3 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "scripts/variedcommodities_fix.zs"
 hash = "2e5d1d67b2704008c650381cd60934ae5cb496ce1767512d974044994fc94431"
-
-[[files]]
-file = "sledgehammer.conf"
-hash = "140bf6a492025d4d10e2ae34539385b7732363574f74e796e138e05010a91499"
