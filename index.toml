@@ -101,14 +101,6 @@ file = "config/xaerohud.txt"
 hash = "b0a63151d3eccb82a8cd8ede278d5f20eb08f14a5fbf49408d8a979c7271c453"
 
 [[files]]
-file = "defaultoptions/keybindings.txt"
-hash = "895dd23c372175b2fd1b7e1ae1055fe043a0ab9923a8eef0b1fd968e3cc27171"
-
-[[files]]
-file = "defaultoptions/options.txt"
-hash = "14e4810cc543487a1f281d34d34db9b53426019fbe96c38e68d204336294eb4b"
-
-[[files]]
 file = "mods/advanced-fishing.pw.toml"
 hash = "cf7d75524ddc410f515ba2426bdbc6290d1729ce677960cd5cd1a47e4d05e54a"
 metafile = true
