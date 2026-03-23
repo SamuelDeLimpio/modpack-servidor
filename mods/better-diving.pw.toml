@@ -1,0 +1,13 @@
+name = "Better Diving"
+filename = "BetterDiving-1.12.2-1.5.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d60069168d159d858a2a576f9d09f93bedc2fe09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3089030
+project-id = 310303

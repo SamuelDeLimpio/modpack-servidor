@@ -5,12 +5,20 @@ file = "config/MoVillages/VillageDistance.cfg"
 hash = "e965a76589dc72e2591bc03dde18b4249b5d7b4a67c211f9ce6974fe7c332101"
 
 [[files]]
+file = "config/better_diving.cfg"
+hash = "948e072115214c74c14abf7bf7bd841f46ac93748e3490c5dc1bcab63fd0da41"
+
+[[files]]
 file = "config/emoticons/config.json"
 hash = "c5327bcb61c355e98fca9f04e54760fb3091b773fe43bf198bfa8623d5264b8a"
 
 [[files]]
 file = "config/emoticons/keys.json"
 hash = "2ab37009564037d6f19c9d9142b792795b2a23c733a9b4c22aab56762ae502a8"
+
+[[files]]
+file = "config/tombstone.cfg"
+hash = "ecb806b9b20ff851b1cb8cd6f63529c60c54b4243285af6eb054c169376689d1"
 
 [[files]]
 file = "config/traverse/traverse.cfg"
@@ -49,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/better-diving.pw.toml"
+hash = "bcc74a9673716a0c11e8349fe42a1dbad7edbab7180cec272a113cc1e22a1945"
 metafile = true
 
 [[files]]
@@ -449,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/xaerolib.pw.toml"
 hash = "058b2ae67e177129383e19129a6d1e2ad9f9e506751cdbb985a13785bbcf4b31"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d426c6419bc530866727d22b7cf90a14e6281acefa82404d4457f6c7b6081d75"
 metafile = true
 
 [[files]]
