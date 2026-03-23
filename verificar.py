@@ -3,7 +3,7 @@ import os
 # Extensiones de texto incluyendo ahora .zs de CraftTweaker
 extensions = ('.cfg', '.conf', '.csv', '.meta', '.json', '.json5', '.properties', '.pw.toml', '.toml', '.txt', '.mcmeta', '.zs')
 # Se añade la carpeta 'scripts' a la lista de escaneo
-folders = ['config', 'mods', 'resourcepacks', 'notfound', 'scripts']
+folders = ['config', 'mods', 'resourcepacks', 'notfound', 'scripts', 'defaultoptions']
 
 for folder in folders:
     if not os.path.exists(folder):
