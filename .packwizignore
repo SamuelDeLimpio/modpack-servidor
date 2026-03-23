@@ -3,7 +3,6 @@
 
 # Ignorar archivos de texto informativos en cualquier carpeta
 **/README.txt
-*.txt
 
 # Ignorar el propio ejecutable de packwiz si lo tienes ahí
 packwiz.exe

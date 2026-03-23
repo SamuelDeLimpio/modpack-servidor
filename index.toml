@@ -9,6 +9,14 @@ file = "config/better_diving.cfg"
 hash = "e1cd478ba9619d7fb46763924ade04ec12c5a9c52e6a671586a78eb54c6641b8"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "895dd23c372175b2fd1b7e1ae1055fe043a0ab9923a8eef0b1fd968e3cc27171"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "14e4810cc543487a1f281d34d34db9b53426019fbe96c38e68d204336294eb4b"
+
+[[files]]
 file = "config/emoticons/config.json"
 hash = "c5327bcb61c355e98fca9f04e54760fb3091b773fe43bf198bfa8623d5264b8a"
 
@@ -65,6 +73,10 @@ file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
@@ -83,6 +95,18 @@ hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "b0a63151d3eccb82a8cd8ede278d5f20eb08f14a5fbf49408d8a979c7271c453"
+
+[[files]]
+file = "defaultoptions/keybindings.txt"
+hash = "895dd23c372175b2fd1b7e1ae1055fe043a0ab9923a8eef0b1fd968e3cc27171"
+
+[[files]]
+file = "defaultoptions/options.txt"
+hash = "14e4810cc543487a1f281d34d34db9b53426019fbe96c38e68d204336294eb4b"
 
 [[files]]
 file = "mods/advanced-fishing.pw.toml"
