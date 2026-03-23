@@ -9,6 +9,10 @@ file = "config/better_diving.cfg"
 hash = "e1cd478ba9619d7fb46763924ade04ec12c5a9c52e6a671586a78eb54c6641b8"
 
 [[files]]
+file = "config/celeritasdynamiclights.cfg"
+hash = "2c1658c06c99f4bc8379e00780b300ece0b7b7c732ae8f3cab4466226c57cfdc"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "895dd23c372175b2fd1b7e1ae1055fe043a0ab9923a8eef0b1fd968e3cc27171"
 
