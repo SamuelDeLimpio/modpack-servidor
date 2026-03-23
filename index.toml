@@ -6,7 +6,7 @@ hash = "e965a76589dc72e2591bc03dde18b4249b5d7b4a67c211f9ce6974fe7c332101"
 
 [[files]]
 file = "config/better_diving.cfg"
-hash = "948e072115214c74c14abf7bf7bd841f46ac93748e3490c5dc1bcab63fd0da41"
+hash = "e1cd478ba9619d7fb46763924ade04ec12c5a9c52e6a671586a78eb54c6641b8"
 
 [[files]]
 file = "config/emoticons/config.json"
@@ -18,7 +18,7 @@ hash = "2ab37009564037d6f19c9d9142b792795b2a23c733a9b4c22aab56762ae502a8"
 
 [[files]]
 file = "config/tombstone.cfg"
-hash = "ecb806b9b20ff851b1cb8cd6f63529c60c54b4243285af6eb054c169376689d1"
+hash = "fad44759b866a376bdab70bdc93ac7e0f1595bfe61c2b8438296cfd29d92d0a7"
 
 [[files]]
 file = "config/traverse/traverse.cfg"
