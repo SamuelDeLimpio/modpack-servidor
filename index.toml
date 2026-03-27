@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "actualizar.ps1"
+hash = "4c865fd1300e5dff4c973a02022e832fa62b8a9a9194c8fe3388dd39bad6f5a7"
+
+[[files]]
+file = "actualizar.sh"
+hash = "c2f0eab3f737e29c4c779efbdda0382ebb34ae8ebef1588cf1c7f4bf46e646ee"
+
+[[files]]
 file = "config/MoVillages/VillageDistance.cfg"
 hash = "e965a76589dc72e2591bc03dde18b4249b5d7b4a67c211f9ce6974fe7c332101"
 
 [[files]]
 file = "config/celeritasdynamiclights.cfg"
-hash = "2c1658c06c99f4bc8379e00780b300ece0b7b7c732ae8f3cab4466226c57cfdc"
+hash = "2e75b0f4788d6556ee93d3c2ac696356a430a240d2614156ce1dc512084d9840"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -99,6 +107,14 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 [[files]]
 file = "config/xaerohud.txt"
 hash = "b0a63151d3eccb82a8cd8ede278d5f20eb08f14a5fbf49408d8a979c7271c453"
+
+[[files]]
+file = "instance.cfg"
+hash = "660addbddaca31f32d1db098c3ad64938c565c2e6014e9f48b123fffc3142c38"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "9a36de34eed71c662d4bba510ce39d2cd53f4027fbec9902096c6a8f6f98a41c"
 
 [[files]]
 file = "mods/advanced-fishing.pw.toml"
