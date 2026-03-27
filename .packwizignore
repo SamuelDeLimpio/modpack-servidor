@@ -1,17 +1,25 @@
-# Ignorar scripts de Python
+# --- Archivos de Desarrollo ---
 *.py
-
-# Ignorar archivos de texto informativos en cualquier carpeta
-**/README.txt
-
-# Ignorar el propio ejecutable de packwiz si lo tienes ahí
 packwiz.exe
+verificar.py
 
-# Ignorar archivos de Git
+# --- Archivos de Git ---
 .git/
 .gitattributes
 .gitignore
 
-# Ignorar carpetas temporales o de sistema
+# --- Archivos de Gestión de la Instancia (CRÍTICO) ---
+# Debemos ignorar estos para que Packwiz no los borre al actualizar
+actualizar.ps1
+actualizar.sh
+instance.cfg
+mmc-pack.json
+packwiz-installer-bootstrap.jar
+cleanroom.png
+patches/
+runtime/
+
+# --- Archivos de Sistema ---
 .DS_Store
 .notfound
+**/README.txt

@@ -2,7 +2,7 @@
 REPO_URL="https://raw.githubusercontent.com/SamuelDeLimpio/modpack-servidor/main"
 JAVA_URL="https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jre25.0.2-linux_x64.tar.gz"
 
-echo "--- Sincronizando Instancia Inteligente (Linux) ---"
+echo "--- Sincronizando Instancia (Linux) ---"
 
 # 1. Descargar Metadata
 curl -s -O "$REPO_URL/mmc-pack.json"

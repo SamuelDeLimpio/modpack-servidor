@@ -2,7 +2,7 @@
 $RepoURL = "https://raw.githubusercontent.com/SamuelDeLimpio/modpack-servidor/main"
 $JavaURL = "https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jre25.0.2-win_x64.zip"
 
-Write-Host "--- Sincronizando Instancia Inteligente ---" -ForegroundColor Cyan
+Write-Host "--- Sincronizando Instancia ---" -ForegroundColor Cyan
 
 # 1. Descargar Metadata (Asegura que Cleanroom y Configs estén al día)
 Invoke-WebRequest -Uri "$RepoURL/mmc-pack.json" -OutFile "mmc-pack.json"
