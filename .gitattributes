@@ -1,14 +1,20 @@
-# Forzar que Git use LF para todos estos archivos de texto
+# Forzar que Git use LF para todos los archivos de texto (Vital para Linux)
 * text=auto eol=lf
+
+# Formatos de configuración y datos de mods
 *.pw.toml text eol=lf
 *.toml text eol=lf
 *.cfg text eol=lf
 *.conf text eol=lf
-*.csv text eol=lf
-*.meta text eol=lf
+*.properties text eol=lf
 *.json text eol=lf
 *.json5 text eol=lf
-*.properties text eol=lf
 *.mcmeta text eol=lf
-*.txt text eol=lf
+*.meta text eol=lf
+*.csv text eol=lf
+
+# Scripts y archivos de texto
 *.zs text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
+*.ps1 text eol=lf
