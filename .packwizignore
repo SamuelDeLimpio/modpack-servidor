@@ -14,3 +14,4 @@ packwiz.exe
 
 # Ignorar carpetas temporales o de sistema
 .DS_Store
+.notfound
