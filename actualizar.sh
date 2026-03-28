@@ -1,6 +1,4 @@
 #!/bin/bash
-REPO_URL="https://raw.githubusercontent.com/SamuelDeLimpio/modpack-servidor/main"
-JAVA_URL="https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jre25.0.2-linux_x64.tar.gz"
 INST_DIR="$(dirname "$(readlink -f "$0")")"
 
 echo "--- Sincronizando Instancia (Linux) ---"
@@ -16,15 +14,6 @@ sed -i "s/OverrideJava=.*/OverrideJava=true/" "$INST_DIR/instance.cfg"
 sed -i "s/JavaPath=.*/JavaPath=runtime\/bin\/java/" "$INST_DIR/instance.cfg"
 sed -i "s/ExternalJavaCheck=.*/ExternalJavaCheck=true/" "$INST_DIR/instance.cfg"
 sed -i "s/IgnoreJavaCompatibility=.*/IgnoreJavaCompatibility=true/" "$INST_DIR/instance.cfg"
-
-# 2. Java
-if [ ! -f "$INST_DIR/runtime/bin/java" ]; then
-    echo "Descargando JRE 25..."
-    mkdir -p "$INST_DIR/runtime"
-    curl -L "$JAVA_URL" -o "$INST_DIR/java_temp.tar.gz"
-    tar -xzf "$INST_DIR/java_temp.tar.gz" -C "$INST_DIR/runtime" --strip-components=1
-    rm "$INST_DIR/java_temp.tar.gz"
-fi
 
 # 3. Packwiz (Ejecución desde la raíz)
 cd "$INST_DIR"
