@@ -1,20 +1,27 @@
 import os
 
 # Extensiones a normalizar
-extensions = ('.cfg', '.conf', '.csv', '.meta', '.json', '.pw.toml', '.toml', '.txt', '.mcmeta', '.zs', '.sh', '.ps1')
+extensions = ('.cfg', '.conf', '.csv', '.meta', '.json', '.json5', '.properties', '.pw.toml', '.toml', '.txt', '.mcmeta', '.zs')
 
-# Rutas actualizadas: busca en la raíz y dentro de 'minecraft'
-folders = ['.', 'minecraft/config', 'minecraft/mods', 'minecraft/scripts', 'minecraft/resourcepacks']
+# Rutas actualizadas: Ahora buscan DENTRO de la carpeta 'minecraft'
+folders = [
+    'minecraft/config', 
+    'minecraft/mods', 
+    'minecraft/resourcepacks', 
+    'minecraft/scripts', 
+    'minecraft/defaultoptions'
+]
+
+print("--- Iniciando Limpieza de Archivos (LF) ---")
 
 for folder in folders:
     if not os.path.exists(folder):
-        print(f"Saltando: {folder} (no existe)")
+        print(f"Saltando (no existe): {folder}")
         continue
-    
-    print(f"Limpiando carpeta: {folder}")
+        
     for root, dirs, files in os.walk(folder):
-        # Evitar entrar en carpetas de Git o runtime
-        if '.git' in root or 'runtime' in root:
+        # Ignorar carpetas de Git
+        if '.git' in root:
             continue
             
         for file in files:
@@ -30,8 +37,8 @@ for folder in folders:
                     if new_content != content:
                         with open(path, 'wb') as f:
                             f.write(new_content)
-                        print(f"  Normalizado: {path}")
+                        print(f"Normalizado: {path}")
                 except Exception as e:
-                    print(f"  Error en {path}: {e}")
+                    print(f"Error en {path}: {e}")
 
-print("\n--- ¡Limpieza completada para la nueva estructura! ---")
+print("\n--- ¡Limpieza completada en la nueva estructura! ---")
