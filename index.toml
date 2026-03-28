@@ -521,8 +521,18 @@ hash = "ee792f72d8980856d9a136cbf1677c98fee94e806fbfdb03ad4fbeb7e117ab3b"
 metafile = true
 
 [[files]]
+file = "minecraft/mods/vending-block.pw.toml"
+hash = "9aa66c4fcc9ae50d8bc09a62b463e6ac978fdfe1cc45595b17e462ce4664da0e"
+metafile = true
+
+[[files]]
 file = "minecraft/mods/vintagefix.pw.toml"
 hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
+metafile = true
+
+[[files]]
+file = "minecraft/mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
 
 [[files]]
