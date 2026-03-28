@@ -266,6 +266,11 @@ hash = "de273d83365a71eadb97eb0feb2f690e9678436601dfd0c85e7acc591829923f"
 metafile = true
 
 [[files]]
+file = "minecraft/mods/foamflower.pw.toml"
+hash = "78f3e276a6a4aac1585eaac2964ace14fe0e07bf2140fdcf28a4c916a6ff81be"
+metafile = true
+
+[[files]]
 file = "minecraft/mods/forgelin-continuous.pw.toml"
 hash = "d438bb91c11b43d10d9ca2ba84a79e9623238eecff3cc105736d03435cd22872"
 metafile = true
