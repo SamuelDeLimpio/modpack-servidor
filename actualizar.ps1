@@ -1,13 +1,12 @@
-# Configuración Final (JRE 25.0.2)
+# Configuración Final (Solución de Ruta GitHub)
 $RepoURL = "https://raw.githubusercontent.com/SamuelDeLimpio/modpack-servidor/main"
 $JavaURL = "https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jre25.0.2-win_x64.zip"
 $JarFile = "$PSScriptRoot\packwiz-installer-bootstrap.jar"
 $RuntimeDir = "$PSScriptRoot\runtime"
-$MinecraftDir = "$PSScriptRoot\minecraft"
 
 Write-Host "--- Sincronizando Instancia (Windows) ---" -ForegroundColor Cyan
 
-# 1. RAM e Instance.cfg
+# 1. Ajustes de RAM e Instance.cfg
 $TotalRamGB = [math]::Round((Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory / 1GB)
 $AsignarRAM = if ($TotalRamGB -le 5) { 2560 } else { 4096 }
 
@@ -23,7 +22,7 @@ if (Test-Path $CfgPath) {
     $Cfg | Set-Content $CfgPath
 }
 
-# 2. Verificar Java
+# 2. Verificar y Descargar Java
 if (-not (Test-Path "$RuntimeDir\bin\java.exe")) {
     Write-Host "Instalando JRE 25 portable..." -ForegroundColor Yellow
     if (Test-Path $RuntimeDir) { Remove-Item $RuntimeDir -Recurse -Force }
@@ -36,12 +35,10 @@ if (-not (Test-Path "$RuntimeDir\bin\java.exe")) {
     Remove-Item "java_temp.zip", $TempExtract -Recurse
 }
 
-# 3. Packwiz (EL CAMBIO CLAVE)
-if (-not (Test-Path $MinecraftDir)) { New-Item -ItemType Directory -Path $MinecraftDir }
-Set-Location $MinecraftDir
-
-# Ejecutamos Packwiz desde ADENTRO de minecraft, apuntando al JAR de afuera
-# NO usamos el flag -d para evitar carpetas anidadas y errores de comando
+# 3. Packwiz (Ejecución desde la raíz de la instancia)
+# Como en GitHub tus mods ya están en 'minecraft/mods', Packwiz
+# automáticamente los pondrá en la carpeta 'minecraft' de Prism.
+Set-Location $PSScriptRoot
 & "$RuntimeDir\bin\java.exe" -jar "$JarFile" "$RepoURL/pack.toml"
 
-Write-Host "--- Sincronización Completada Correctamente ---" -ForegroundColor Green
+Write-Host "--- Sincronización Exitosa ---" -ForegroundColor Green
