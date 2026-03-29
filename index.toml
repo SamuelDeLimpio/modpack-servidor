@@ -401,6 +401,11 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
+file = "minecraft/mods/offlineskins.pw.toml"
+hash = "afd41eea31d970c14b7ea558d1febc32fb98bc8a17df7d7fbada28849bfa5318"
+metafile = true
+
+[[files]]
 file = "minecraft/mods/openblocks-elevator.pw.toml"
 hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
 metafile = true
