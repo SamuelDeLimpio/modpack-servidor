@@ -10,11 +10,15 @@ hash = "2e75b0f4788d6556ee93d3c2ac696356a430a240d2614156ce1dc512084d9840"
 
 [[files]]
 file = "minecraft/config/defaultoptions/keybindings.txt"
-hash = "895dd23c372175b2fd1b7e1ae1055fe043a0ab9923a8eef0b1fd968e3cc27171"
+hash = "cbfcea141d1999d0aaea61deccec8b906117d4a2f3ef37d46a372b67aa901197"
 
 [[files]]
 file = "minecraft/config/defaultoptions/options.txt"
-hash = "14e4810cc543487a1f281d34d34db9b53426019fbe96c38e68d204336294eb4b"
+hash = "e64cb4f12157ea7135239fd8caf105bf52a9e32723861fdd210cb42736a8ced5"
+
+[[files]]
+file = "minecraft/config/defaultoptions/servers.dat"
+hash = "dc1e20c8ac544d7ced3c3ff12091924917bd0d69b9cbfeca2ac36342901c9816"
 
 [[files]]
 file = "minecraft/config/emoticons/config.json"
@@ -203,6 +207,11 @@ metafile = true
 [[files]]
 file = "minecraft/mods/constructs-armory.pw.toml"
 hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
+metafile = true
+
+[[files]]
+file = "minecraft/mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
 
 [[files]]
