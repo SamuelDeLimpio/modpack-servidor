@@ -1,13 +1,13 @@
 name = "Celeritas Extra"
-filename = "celeritasextra-0.3.1.jar"
+filename = "celeritasextra-0.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5754e1aef04a1fe2f8ab8c046e7b0f5099f8593a"
+hash = "50c594235208a68f6ed57ff2496413715960989f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7756072
+file-id = 7800855
 project-id = 1451214

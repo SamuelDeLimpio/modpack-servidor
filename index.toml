@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "minecraft/mods/celeritas-extra.pw.toml"
-hash = "a01aea2b403f966e7244eb41a39295172a999c25851d2f50ba9a76d984e8c36f"
+hash = "640fdd878ce539e784e4c7f867899c5c307836ef1e44cdedfa9d40b63233f1e2"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "minecraft/mods/simple-voice-chat.pw.toml"
-hash = "f3e2ff5938fc56c4c1c02dab6cca45fc46f7550eac5d7245adce1aabc208aa49"
+hash = "51817f3a2040054f2a9e0cf8d0c29149d3439f54119d2ff093a90721566d80ce"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "minecraft/mods/universal-tweaks.pw.toml"
-hash = "bac5bb4b388e2e2102d0b2bc8fc103b524e41613b3a76a6e97fc8e91609f2257"
+hash = "c4881a55f4c04ef3354b3e2fd83a7d9d4210f371ffd9f1449ce34bcbf6eae91c"
 metafile = true
 
 [[files]]
