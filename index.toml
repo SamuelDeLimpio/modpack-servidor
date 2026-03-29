@@ -410,11 +410,6 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
-file = "minecraft/mods/offlineskins.pw.toml"
-hash = "afd41eea31d970c14b7ea558d1febc32fb98bc8a17df7d7fbada28849bfa5318"
-metafile = true
-
-[[files]]
 file = "minecraft/mods/openblocks-elevator.pw.toml"
 hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
 metafile = true
@@ -432,6 +427,11 @@ metafile = true
 [[files]]
 file = "minecraft/mods/playerrevive.pw.toml"
 hash = "f4f48c5173082fbb0b804204872593248fe433dcb52bab8222610946b839953d"
+metafile = true
+
+[[files]]
+file = "minecraft/mods/re-skin.pw.toml"
+hash = "b8538d70de027f72ce0bd8607b7fcce4934feef922908b87d74466f4f2ed524b"
 metafile = true
 
 [[files]]
@@ -618,11 +618,3 @@ hash = "2e5d1d67b2704008c650381cd60934ae5cb496ce1767512d974044994fc94431"
 [[files]]
 file = "minecraft/server-icon.png"
 hash = "1189788156da9f7bf1f2ec812922dd389dda372d092ceff6160f2d84c20849af"
-
-[[files]]
-file = "notfound/celeritas-forge-mc12.2-2.4.0-dev.jar"
-hash = "548a88ca9e1a9dd4f0a7140a9110f321e4fd6ae4196efd88f3f5e0f9a7e6585c"
-
-[[files]]
-file = "notfound/tombstone-1.12.2-4.7.5.jar"
-hash = "d5ac0bce174b18cbe5a561752d035d6f5ec584f939a7ab85c1965084c4448745"

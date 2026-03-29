@@ -18,6 +18,7 @@ packwiz-installer-bootstrap.jar
 cleanroom.png
 patches/
 runtime/
+notfound/
 
 # --- Archivos de Sistema ---
 .DS_Store
