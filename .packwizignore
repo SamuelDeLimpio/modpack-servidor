@@ -10,8 +10,6 @@ verificar.py
 
 # --- Archivos de Gestión de la Instancia (CRÍTICO) ---
 # Debemos ignorar estos para que Packwiz no los borre al actualizar
-actualizar.ps1
-actualizar.sh
 instance.cfg
 mmc-pack.json
 packwiz-installer-bootstrap.jar

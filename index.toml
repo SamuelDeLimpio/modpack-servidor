@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "actualizar.ps1"
+hash = "afb1b1a1e27a851ba9cdf3782dd27f129a69626c67dd6c321cb6c9b9e2d56123"
+
+[[files]]
+file = "actualizar.sh"
+hash = "632b947a0ab39398363a52423ee62c8bdc35072945c61882e6c4fd4b3d8bad05"
+
+[[files]]
 file = "minecraft/config/MoVillages/VillageDistance.cfg"
 hash = "e965a76589dc72e2591bc03dde18b4249b5d7b4a67c211f9ce6974fe7c332101"
 
