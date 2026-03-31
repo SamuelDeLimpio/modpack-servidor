@@ -11,10 +11,8 @@ verificar.py
 # --- Archivos de Gestión de la Instancia (CRÍTICO) ---
 # Debemos ignorar estos para que Packwiz no los borre al actualizar
 instance.cfg
-mmc-pack.json
 packwiz-installer-bootstrap.jar
 cleanroom.png
-patches/
 runtime/
 notfound/
 

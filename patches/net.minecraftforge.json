@@ -8,13 +8,13 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "com.cleanroommc:cleanroom:0.5.6-alpha",
+            "name": "com.cleanroommc:cleanroom:0.5.7-alpha",
             "downloads": {
                 "artifact": {
-                    "path": "com/cleanroommc/cleanroom/0.5.6-alpha/cleanroom-0.5.6-alpha.jar",
-                    "url": "https://repo.cleanroommc.com/releases/com/cleanroommc/cleanroom/0.5.6-alpha/cleanroom-0.5.6-alpha-universal.jar",
-                    "sha1": "95ee280f2681b75ea9d4220e7aaa5e08f9e604c9",
-                    "size": 5359939
+                    "path": "com/cleanroommc/cleanroom/0.5.7-alpha/cleanroom-0.5.7-alpha.jar",
+                    "url": "https://repo.cleanroommc.com/releases/com/cleanroommc/cleanroom/0.5.7-alpha/cleanroom-0.5.7-alpha-universal.jar",
+                    "sha1": "e1bf0a8774f306337f8e1da90878fad89d28d306",
+                    "size": 5367425
                 }
             }
         },
@@ -96,13 +96,13 @@
             }
         },
         {
-            "name": "top.outlands:foundation:0.19.3",
+            "name": "top.outlands:foundation:0.19.5",
             "downloads": {
                 "artifact": {
-                    "path": "top/outlands/foundation/0.19.3/foundation-0.19.3.jar",
-                    "url": "https://repo.cleanroommc.com/releases/top/outlands/foundation/0.19.3/foundation-0.19.3.jar",
-                    "sha1": "cf95a993c0acbf17a6d3c5b6afec86b042b39ee4",
-                    "size": 55173
+                    "path": "top/outlands/foundation/0.19.5/foundation-0.19.5.jar",
+                    "url": "https://repo.cleanroommc.com/releases/top/outlands/foundation/0.19.5/foundation-0.19.5.jar",
+                    "sha1": "8b37c3c13bcc950e89b75c7bc7e82e00c610a824",
+                    "size": 55213
                 }
             }
         },
@@ -821,5 +821,5 @@
         }
     ],
     "uid": "net.minecraftforge",
-    "version": "0.5.6-alpha"
+    "version": "0.5.7-alpha"
 }

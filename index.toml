@@ -631,3 +631,19 @@ hash = "2e5d1d67b2704008c650381cd60934ae5cb496ce1767512d974044994fc94431"
 [[files]]
 file = "minecraft/server-icon.png"
 hash = "1189788156da9f7bf1f2ec812922dd389dda372d092ceff6160f2d84c20849af"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "a22d71679a5bba0390331123aa65bf88d71c7458cb874a01e43878b3770e2914"
+
+[[files]]
+file = "patches/net.minecraft.json"
+hash = "9921c948c9af6afd145b6cfcb48df7720ec20c5f7fa26adcdf91af302b38b792"
+
+[[files]]
+file = "patches/net.minecraftforge.json"
+hash = "06f1a6b30e0af125e012fe1acb22a60a4a97bf2451c459ec9dd2bfadc69e39fd"
+
+[[files]]
+file = "patches/org.lwjgl3.json"
+hash = "b037e99e96631d7fa2e928754b9b7a76b5cb2909d17b0c9aa6d5f67b4223c731"

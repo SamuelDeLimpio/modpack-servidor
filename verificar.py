@@ -9,7 +9,9 @@ folders = [
     'minecraft/mods', 
     'minecraft/resourcepacks', 
     'minecraft/scripts', 
-    'minecraft/defaultoptions'
+    'minecraft/defaultoptions',
+    'patches',
+    '.'
 ]
 
 print("--- Iniciando Limpieza de Archivos (LF) ---")
