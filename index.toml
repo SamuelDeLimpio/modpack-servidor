@@ -128,6 +128,11 @@ hash = "3778808688d9e39c0b0d58c171cc22786a83dd2ace5e52c1f19b67bffd232c0e"
 metafile = true
 
 [[files]]
+file = "minecraft/mods/armourers-workshop.pw.toml"
+hash = "df8cf98bf55bb65e48b1af05e3bfac808542ff9d4f527f4bfabeb87b23ff215a"
+metafile = true
+
+[[files]]
 file = "minecraft/mods/artifacts.pw.toml"
 hash = "6f5db2862c4b5e4f90fdace8291e1998e7496f821dfb7fb27e1d217e58463ca2"
 metafile = true
@@ -544,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "minecraft/mods/universal-tweaks.pw.toml"
-hash = "c4881a55f4c04ef3354b3e2fd83a7d9d4210f371ffd9f1449ce34bcbf6eae91c"
+hash = "37c706c5cd0b430f87952afe1caa52332d1ad59f13a510d3826e1ece536f8145"
 metafile = true
 
 [[files]]
