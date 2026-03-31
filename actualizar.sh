@@ -1,4 +1,5 @@
 #!/bin/bash
+REPO_URL="https://raw.githubusercontent.com/SamuelDeLimpio/modpack-servidor/main"
 INST_DIR="$(dirname "$(readlink -f "$0")")"
 
 echo "--- Sincronizando Instancia (Linux) ---"
